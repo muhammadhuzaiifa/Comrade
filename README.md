@@ -1,4 +1,5 @@
 # Comrade
 This is my first GitHub Repo.
 <br>
-Author: Muhammad Huzaifa
+Author: Muhammad Huzaifa Bhatti
+<br>
